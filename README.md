@@ -20,7 +20,7 @@ O projeto nasceu da ideia de que **a tecnologia só é realmente inteligente qua
 
 ---
 
-## 🧩 Funcionalidades principais
+## Funcionalidades principais
 
 - **Leitura automática** (síntese de voz integrada)
 - **Modo claro, escuro e alto contraste**
