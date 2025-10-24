@@ -1,75 +1,55 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Cinzentinho App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> **Acessibilidade jurídica digital**
+>
+> “Se é acessível para quem tem deficiência, é acessível para todos.”
 
-## Available Scripts
+![Status](https://img.shields.io/badge/status-MVP%20em%20desenvolvimento-blue)
+![License](https://img.shields.io/badge/license-GNU%20GPL%20v3-green)
+![React](https://img.shields.io/badge/made%20with-React-61dafb)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O **Cinzentinho App** é uma iniciativa desenvolvida no programa **Jovens Cientistas Cariocas 2025**, da **Secretaria Municipal de Ciência, Tecnologia e Inovação (SMCT-RJ)**.  
+Seu objetivo é **promover o acesso à informação jurídica de forma inclusiva e acessível**, com foco em **pessoas com deficiência (PCDs)**.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O nome **Cinzentinho** faz referência à “massa cinzenta” — símbolo do conhecimento e da capacidade humana de pensar e transformar.  
+O projeto nasceu da ideia de que **a tecnologia só é realmente inteligente quando é acessível para todos.**
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧩 Funcionalidades principais
 
-### `npm run build`
+- **Leitura automática** (síntese de voz integrada)
+- **Modo claro, escuro e alto contraste**
+- **Ajuste dinâmico de tamanho de fonte**
+- **Integração base com VLibras** (API do Governo Federal)
+- Interface desenvolvida com **boas práticas de acessibilidade (WCAG 2.1)**
+- Design pensado para **todas as deficiências**: visuais, auditivas, motoras e cognitivas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Público-alvo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Pessoas com deficiência que enfrentam barreiras de acesso à informação jurídica e digital.  
+O projeto também serve como um **exemplo educacional** de aplicação da tecnologia assistiva na prática.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tecnologias utilizadas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **React.js**
+- **JavaScript (ES6)**
+- **HTML5 + CSS3**
+- **API VLibras** (em fase de testes)
+- **GitHub Projects**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Como executar localmente
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ocinzentinho
-Acessibilidade jurídica digital
->>>>>>> dfb2a6ec6fd95cad2f1be2c0c9e267c306e6fa4a
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/ocinzentinhoapp/ocinzentinho.git
